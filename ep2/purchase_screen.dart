@@ -16,7 +16,8 @@ class _PurchaseScreenState extends State<PurchaseScreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Plant App',style: TextStyle(color: Colors.white),),        leading: IconButton(onPressed: (){},icon: Icon(Icons.arrow_back,color: Colors.white,),),
+        title: Text('Plant App',style: TextStyle(color: Colors.white),),
+        leading: IconButton(onPressed: (){},icon: Icon(Icons.arrow_back,color: Colors.white,),),
         elevation: 0,
         flexibleSpace: Container(
           decoration: BoxDecoration(
