@@ -84,7 +84,10 @@ class _PurchaseScreenState extends State<PurchaseScreen> {
                     children: <Widget>[
                       Text('Details',style: biggerText,),
                       Text(
-                        'Una de las características de las especies de este género, y de la familia es la secreción lechosa llamada látex que segregan al cortar o herir cualquier parte de la planta. La especie Ficus carica, la higuera común, pertenece a este género. Produce un fruto muy comercializado, el higo o breva.',
+                        'Una de las características de las especies de este género,
+                        y de la familia es la secreción lechosa llamada látex que segregan al cortar o herir
+                        cualquier parte de la planta. La especie Ficus carica, la higuera común, pertenece
+                        a este género. Produce un fruto muy comercializado, el higo o breva.',
                         style: smallerText,
                       ),
                     ],
